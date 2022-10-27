@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Physics Quiz</string>
+    <string name="button_yes">YES</string>
+    <string name="button_no">NO</string>
+    <string name="button_cheat">CHEAT</string>
+    <string name="button_answer">Check in internet</string>
+    <string name="answer">Answer</string>
+    <string name="cheats">Cheats</string>
+    <string name="points">Points</string>
+    <string name="correct_answers">Correct Answers</string>
+</resources>
