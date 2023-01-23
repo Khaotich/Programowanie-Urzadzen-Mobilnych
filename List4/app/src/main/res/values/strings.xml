@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List4</string>
+    <string name="title_flag">Flags</string>
+    <string name="title_city">Capital Cities</string>
+</resources>

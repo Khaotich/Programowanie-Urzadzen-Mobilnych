@@ -1,0 +1,2 @@
+https://restcountries.com/v2/all?field=name,capital
+https://restcountries.com/v2/all?field=name,flag
